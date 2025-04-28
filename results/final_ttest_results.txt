@@ -1,0 +1,7 @@
+📈 Nikkei 225 T-Test Results
+- T-statistic: 0.38566308247358705
+- P-value: 0.701564374594599
+
+📈 S&P 500 T-Test Results
+- T-statistic: -0.8710911459029076
+- P-value: 0.3880285121963819
