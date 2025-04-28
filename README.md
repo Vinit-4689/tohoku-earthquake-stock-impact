@@ -112,6 +112,10 @@ We used **daily returns data** to examine changes in:
 ---
 
 ## 🔗 Connect
+
+
+**Vinit Singh Pathir**  
+[LinkedIn](https://www.linkedin.com/in/vinit-singh-cse/)  
 Feel free to fork this repo, suggest improvements, or connect with me!
 
 ---
