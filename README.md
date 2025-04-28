@@ -96,8 +96,7 @@ We used **daily returns data** to examine changes in:
 ---
 
 ## 🚀 Future Work
-- Extending analysis to multiple global indices (FTSE, DAX, etc).
-- Longer-term recovery patterns (6 months+).
+- Creating small predictive study model to dive dipper
 - Sector-wise impact (Energy, Insurance, Infrastructure).
 
 ---
