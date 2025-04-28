@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/470dd29f-2cd6-4291-9b11-9d137371d62e)
+
 # 📈 Shockwaves Through Markets: How the Tōhoku Earthquake Reshaped Risk and Return
 
 ---
